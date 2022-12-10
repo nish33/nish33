@@ -4,4 +4,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nish33)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nish33)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=nish33) -->
