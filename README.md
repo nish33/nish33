@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nish33&theme=github_dark&layout=compact&hide_border=true" /> -->
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,wordpress,figma)](https://skillicons.dev)
