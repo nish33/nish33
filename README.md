@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,nextjs,react,nexhtml,css,wordpress,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,nextjs,react,html,css,wordpress,figma)](https://skillicons.dev)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nish33&theme=horizon)
 
